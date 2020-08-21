@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "name": "puppeteerJs_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
